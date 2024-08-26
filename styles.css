@@ -19,7 +19,7 @@ body {
 
 .left-half {
     flex: 1;
-    background-image: linear-gradient(43deg, #6e7079 0%, #e2dfe1 56%, #ffffff 81%), url('sua-imagem.jpg');
+    background-image: linear-gradient(43deg, #6e7079 0%, #e2dfe1 56%, #ffffff 81%),;
     background-size: cover;
     background-position: center;
 }
